@@ -1,17 +1,14 @@
-## Desafio Extra - Stage 02 - Explorer 
+## Extra Challenge - Stage 02 - Explorer 
 
-Desafio teve o intuito de reforçar os conceitos de HTML e CSS (semântica, propiedades, etc). 
+Challenge was intended to reinforce the concepts of HTML and CSS (semantics, properties, etc).
 
-### 💻 Sobre o desafio
+### 💻 About the challenge
 
-Nesse desafio, você deverá recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos, dentre eles:
+In this challenge, you must recreate an application, based on a ready-made layout in Figma, to strengthen some concepts, including:
 
-- Estruturando um projeto HTML;
-- Uso de tags HTML mais comuns;
-- Conceitos iniciais de CSS;
-- Posicionamento e alinhamento de elementos na tela;
-- Aplicando fontes customizadas;
-- Espaçamentos.
-
-
-Feito com 💜 por Rocketseat 👋 Participe da nossa comunidade aberta!
+- Structuring an HTML project;
+- Use of the most common HTML tags;
+- Initial concepts of CSS;
+- Positioning and alignment of elements on the screen;
+- Applying custom fonts;
+- Spacing.
