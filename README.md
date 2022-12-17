@@ -1,4 +1,4 @@
-## Extra Challenge - Stage 02 - Explorer 
+## :man_astronaut: Extra Challenge - Stage 02 - Explorer 
 
 Challenge was intended to reinforce the concepts of HTML and CSS (semantics, properties, etc).
 
